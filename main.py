@@ -1,3 +1,3 @@
-from subpackage.subscript import runme
+from subdir.subscript import runme
 
 runme()
